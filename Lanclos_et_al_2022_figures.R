@@ -1,5 +1,6 @@
 #Lanclos et al. 2022 figure scripts
 #Note this code is not meant to be a continuous script, rather it is a series of individual sections to visualize and mine the data
+#Table S1 contains each input file used throughout this script
 
 #Recruitment
 rm(list=ls()) 
